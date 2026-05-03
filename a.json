@@ -1,6 +1,6 @@
 {
   "name": "Darkened Barbie™ (AMOLED) - Darker Top & Bottom",
-  "description": "A dark theme with pink accents. Top header와 bottom input bar를 순수 블랙으로 더 어둡게 조정하여 눈 피로 감소.",
+  "description": "A dark theme with pink accents.",
   "authors": [{"name": "Purple_Ξye™"}],
   "semanticColors": {
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#000000"],
